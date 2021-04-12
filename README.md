@@ -1,6 +1,8 @@
 # mcpi-texturepack
 Code for adding texture packs into MCPI-Reborn.
 
+⚠️ This repo is now a part of [mcpi-repo](https://github.com/MCPI-Revival/mcpi-repo/tree/main/texturepack)! Please use mcpi-repo and not this repo for the most up-to date texturepacks.
+
 > This repo is a upload of the code which was originally made by `NikZapp#6774` on Discord with minor tweaks to work with MCPI-Reborn. Here is a formatted version of the original README from NikZapp:
 
 ## MCPI Texturepack utility v1.1
